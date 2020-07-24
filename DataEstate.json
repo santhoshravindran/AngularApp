@@ -1,0 +1,67 @@
+﻿{
+  "Nodes": [
+    {
+      "id": "0",
+      "title": "CSEO",
+      "children": [
+        {
+          "group": "n",
+          "id": "0",
+          "title": "SMSE",
+          "children": [
+            {
+              "group": "n",
+              "id": "0",
+              "title": "sales"
+            },
+            {
+              "group": "n",
+              "id": "1",
+              "title": "marketing"
+            },
+            {
+              "group": "n",
+              "id": "2",
+              "title": "comsme"
+            },
+            {
+              "group": "n",
+              "id": "2",
+              "title": "csme"
+            }
+          ]
+        },
+        {
+          "group": "n",
+          "id": "1",
+          "title": "CPE",
+          "children": []
+        },
+        {
+          "group": "n",
+          "id": "2",
+          "title": "CFE",
+          "children": []
+        },
+        {
+          "group": "n",
+          "id": "3",
+          "title": "EUSE",
+          "children": []
+        },
+        {
+          "group": "n",
+          "id": "4",
+          "title": "DSRE",
+          "children": []
+        },
+        {
+          "group": "n",
+          "id": "5",
+          "title": "Biz MGMT",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
